@@ -1,5 +1,3 @@
-# first
-My First project
 
-A basic Test for Anova 
+A basic Test for Anova in Python
 
